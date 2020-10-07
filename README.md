@@ -8,6 +8,8 @@ ___________________________________________________________________________
 ## Install
 Install all the dependencies from the package.json file
 
+## Instructions to run
+
 ## Run
 ```
 $ node app.js
