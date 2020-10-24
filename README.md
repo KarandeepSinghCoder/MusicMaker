@@ -9,7 +9,9 @@ ___________________________________________________________________________
 Install all the dependencies from the package.json file
 
 ## Instructions to run
-
+```
+$ npm install
+```
 ## Run
 ```
 $ node app.js
